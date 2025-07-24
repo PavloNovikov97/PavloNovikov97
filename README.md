@@ -1,9 +1,4 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <!-- If you include an `avatar.png` in this repo, it will show here -->
-  <img src="./avatar.png" alt="Pavlo Novikov" width="120" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi, I’m Pavlo Novikov</h1>
 <p align="center">
   <em>Data Analyst | SQL, Python, Tableau, Power BI, Excel</em>
