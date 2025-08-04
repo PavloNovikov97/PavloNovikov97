@@ -20,14 +20,19 @@
 
 ##  Featured Projects
 <!-- Use GitHub’s “pin a repo” feature to highlight these. Below are examples: -->
-- [e-Commerce Sales Analysis (SQL)](https://github.com/PavloNovikov97/ecommerce-sql-analysis)  
-  Cleaned & analyzed 100k+ order records; identified top products, seasonal trends & customer cohorts.
-- [StackOverflow Survey Insights (Python)](https://github.com/PavloNovikov97/so-survey-analysis)  
-  Performed descriptive stats & visualized respondent demographics & tool usage.
-- [Adidas USA Sales Dashboard (Tableau)](https://github.com/PavloNovikov97/adidas-tableau-dashboard)  
-  Interactive dashboard tracking weekly sales & conversion rates.
-- [CX Supervisor Reporting (Power BI)](https://github.com/PavloNovikov97/virtuo-cx-reporting)  
-  Automated report suite for CSAT & ticket volume, reducing manual effort by 75%.
+- [Nashville Housing Data Cleaning (SQL)](https://github.com/PavloNovikov97/nashville-housing-data-cleaning-sql)  
+  Cleaned and transformed real estate records from 2013–2016: fixed date formats, filled missing addresses, split fields, and removed duplicates.
+- [Ad Campaign Aggregation & KPI Calculation (SQL)](https://github.com/PavloNovikov97/ad-campaign-aggregation-sql)  
+  Combined Facebook and Google Ads data, handled missing values, parsed UTM tags, and calculated campaign performance metrics including ROMI and CPC.
+- [Stack Overflow Survey Analysis (Python)](https://github.com/PavloNovikov97/stackoverflow-survey-analysis-python/)  
+  Explored developer survey data with pandas and NumPy: filtered valid responses, analyzed Python usage, remote work patterns, compensation, and education levels. Delivered insights via Jupyter Notebook.
+- [Facebook Ads ROMI Analysis (Python)](https://github.com/PavloNovikov97/facebook-ads-romi-python)  
+  Unified daily ad metrics to uncover insights about daily marketing performance, return on investment, and campaign-level effectiveness.
+- [Adidas USA Sales Dashboard (Tableau)](https://public.tableau.com/app/profile/pavlo.novikov/viz/AdidasUSASalesDashboard_17479465759660/Dashboard)  
+  Interactive dashboard exploring weekly sales by product, state, and retailer. Highlights include profit trends and regional comparisons.
+- [Customer Journey Analysis (Tableau)](https://public.tableau.com/app/profile/pavlo.novikov/viz/CustomerJourneyandConverionAnalysisDashboard/CustomerJourneyandConversionAnalysis)  
+  Visualized a website's customer funnel from session to purchase. Identified drop-off points, calculated conversion rates, and segmented behavior by traffic source.
+
 
 ---
 
